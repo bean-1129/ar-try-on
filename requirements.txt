@@ -4,7 +4,8 @@ opencv-python-headless==4.9.0.80
 numpy==1.26.4
 requests==2.31.0
 gunicorn==21.2.0
-Pillow==10.2.0
+Pillow==10.3.0
 ultralytics==8.1.0
-torch==2.1.0
-torchvision==0.16.0
+torch==2.1.2
+torchvision==0.16.2
+PyYAML==6.0.1
